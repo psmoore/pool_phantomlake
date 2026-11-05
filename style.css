@@ -88,3 +88,5 @@ footer .disc { max-width: 1100px; margin: 22px auto 0; border-top: 1px solid #33
 .band.purple .card h3 { color: #111; } .band.purple .card a { color: var(--purple); }
 header .pillbtn { white-space: nowrap; flex: none; }
 nav.main { gap: 4px 16px; }
+ul.sess .ln { white-space: nowrap; }
+@media (max-width: 900px) { .hero { padding-top: 40px; } }
